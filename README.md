@@ -41,7 +41,15 @@
   📍 **Pixel - Soluções Digitais** - Florianópolis, Brasil
   
   💰 **Diretor Comercial**\
-  📆 ago/2021 - janeiro/2022\
+  📆 ago/2021 - jan/2022\
+  📍 **Pixel - Soluções Digitais** - Florianópolis, Brasil
+  
+  📝 **Diretor de Projetos**\
+  📆 Fev/2022 - atualmente\
+  📍 **Pixel - Soluções Digitais** - Florianópolis, Brasil
+  
+  👨‍💻 **Estágiario - Desenvolvimento Mobile (Flutter)**\
+  📆 Mar/2022 - Atualmente\
   📍 **Pixel - Soluções Digitais** - Florianópolis, Brasil
   
 </details>
