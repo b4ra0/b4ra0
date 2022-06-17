@@ -49,7 +49,11 @@
   📍 **Pixel - Soluções Digitais** - Florianópolis, Brasil
   
   👨‍💻 **Estágiario - Desenvolvimento Mobile (Flutter)**\
-  📆 Mar/2022 - Atualmente\
+  📆 Mar/2022 - Jun/2022\
+  📍 **Doutor-IE** - Florianópolis, Brasil
+  
+  👨‍💻 **Auxiliar de Desenvolvimento Mobile (Flutter)**\
+  📆 Jun/2022 - atualmente\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
 </details>
