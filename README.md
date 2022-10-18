@@ -51,7 +51,7 @@
   📆 Mar/2022 - Jun/2022\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
-  👨‍💻 **Auxiliar de Desenvolvimento Mobile (Flutter)**\
+  👨‍💻 **Desenvolvedor Mobile (Flutter)**\
   📆 Jun/2022 - atualmente\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
