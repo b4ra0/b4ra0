@@ -16,6 +16,8 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  
 </div>
   
   ## Redes sociais
@@ -51,7 +53,7 @@
   📆 Mar/2022 - Jun/2022\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
-  👨‍💻 **Auxiliar de Desenvolvimento Mobile (Flutter)**\
+  👨‍💻 **Desenvolvedor Mobile (Flutter)**\
   📆 Jun/2022 - atualmente\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
