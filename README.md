@@ -50,8 +50,10 @@
   📆 Mar/2022 - Jun/2022\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
+
+  
+</details>
+  
   👨‍💻 **Desenvolvedor Mobile (Flutter + Laravel)**\
   📆 Jun/2022 - atualmente\
   📍 **Doutor-IE** - Florianópolis, Brasil
-  
-</details>
