@@ -13,7 +13,8 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Lucas-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Lucas-Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Lucas-Golang" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
   
 </div>
   
@@ -50,10 +51,14 @@
   📆 Mar/2022 - Jun/2022\
   📍 **Doutor-IE** - Florianópolis, Brasil
   
+  👨‍💻 **Desenvolvedor Mobile (Flutter + Laravel)**\
+  📆 Jun/2022 - Out/2023\
+  📍 **Doutor-IE** - Florianópolis, Brasil
+  
 
   
 </details>
   
-  👨‍💻 **Desenvolvedor Mobile (Flutter + Laravel)**\
-  📆 Jun/2022 - atualmente\
-  📍 **Doutor-IE** - Florianópolis, Brasil
+  👨‍💻 **Desenvolvedor Full-Stack (Golang)**\
+  📆 Mar/2024 - atualmente\
+  📍 **Sensor Watch** - Palhoça (SC), Brasil
